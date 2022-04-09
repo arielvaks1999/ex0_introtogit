@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color:yellow 
+Favorite food: sushi
+Favorite musician/band:doja cat 
+Favorite movie: the dark knight
+Requested grade in the course: 100
